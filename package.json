@@ -1,5 +1,6 @@
 {
   "name": "cra-api-template",
+  "private": true,
   "version": "1.0.0",
   "description": "cra-api-template",
   "main": "server.js",
