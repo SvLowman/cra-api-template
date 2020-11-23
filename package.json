@@ -1,0 +1,19 @@
+{
+  "name": "cra-api-template",
+  "version": "1.0.0",
+  "description": "cra-api-template",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SvLowman/cra-api-template.git"
+  },
+  "author": "svlowman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SvLowman/cra-api-template/issues"
+  },
+  "homepage": "https://github.com/SvLowman/cra-api-template#readme"
+}
