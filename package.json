@@ -5,6 +5,7 @@
   "description": "cra-api-template",
   "main": "server.js",
   "scripts": {
+    "postinstall": "cd client && npm install",
     "build": "cd client && npm run build && npm run build-storybook",
     "test": "test",
     "prettify": "prettier --write .",
