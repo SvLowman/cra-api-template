@@ -4,7 +4,8 @@
   "description": "cra-api-template",
   "main": "server.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "prettify": "prettier --write ."
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/SvLowman/cra-api-template/issues"
   },
-  "homepage": "https://github.com/SvLowman/cra-api-template#readme"
+  "homepage": "https://github.com/SvLowman/cra-api-template#readme",
+  "devDependencies": {
+    "eslint": "^7.14.0",
+    "eslint-plugin-react": "^7.21.5",
+    "prettier": "2.2.0"
+  }
 }
